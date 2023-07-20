@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e932c39.css",
+    "main.js": "/static/js/main.dab7c7ef.js",
+    "static/media/background.jpg": "/static/media/background.5fe1b544702daca42c23.jpg",
+    "static/media/background_pro.jpg": "/static/media/background_pro.cf9d7d89ddada10e0c81.jpg",
+    "static/media/java_logo.png": "/static/media/java_logo.d0be53e356542c3f88d2.png",
+    "static/media/js.jpg": "/static/media/js.b705d60b6e799174a90e.jpg",
+    "static/media/python.png": "/static/media/python.41259ded83ae0f2a4243.png",
+    "static/media/c_programming.png": "/static/media/c_programming.09e6a822c277da063ca5.png",
+    "static/media/project_intro.txt": "/static/media/project_intro.0c84a098a913d45aed53.txt",
+    "index.html": "/index.html",
+    "main.1e932c39.css.map": "/static/css/main.1e932c39.css.map",
+    "main.dab7c7ef.js.map": "/static/js/main.dab7c7ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e932c39.css",
+    "static/js/main.dab7c7ef.js"
+  ]
+}
