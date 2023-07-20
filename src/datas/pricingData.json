@@ -1,0 +1,26 @@
+[
+    {
+        "header3": "- Basic -",
+        "price": "$100",
+        "numDays": "- 3 days -",
+        "pages": "- 3 pages -",
+        "featured": "- Featured -",
+        "design": "- Responsive Design -"
+    },
+    {
+        "header3": "- Premium -",
+        "price": "$200",
+        "numDays": "- 2 days -",
+        "pages": "- 5 pages -",
+        "featured": "- Featured -",
+        "design": "- Responsive Design -"
+    },
+    {
+        "header3": "- Business -",
+        "price": "$300",
+        "numDays": "- 5 days -",
+        "pages": "- 8 pages -",
+        "featured": "- Featured -",
+        "design": "- Responsive Design -"
+    }
+]
